@@ -22,7 +22,9 @@ ColorSelectionUseDefault=FALSE
 ColorBoldUseDefault=FALSE
 TabActivityColor=#0f4999
 
-ColorCursor=#666666669999
-ColorForeground=#666666669999
-ColorBackground=#000000000000
-ColorPalette=#333333336666;#66666666cccc;#00009999cccc;#33336666cccc;#000066669999;#00006666ffff;#666699999999;#9999cccccccc;#333333339999;#99999999ffff;#0000ccccffff;#66669999ffff;#00009999cccc;#00009999ffff;#6666cccccccc;#ccccffffffff
+[Configuration]
+ColorCursor=#f1f1ebebebeb
+ColorForeground=#f1f1ebebebeb
+ColorBackground=#272728282222
+ColorPalette=#484848483e3e;#dcdc25256666;#8f8fc0c02929;#d4d4c9c96e6e;#5555bcbccece;#93935858fefe;#5656b7b7a5a5;#acacadada1a1;#767671715e5e;#fafa27277272;#a7a7e2e22e2e;#e7e7dbdb7575;#6666d9d9eeee;#aeae8282ffff;#6666efefd5d5;#cfcfd0d0c2c2
+
