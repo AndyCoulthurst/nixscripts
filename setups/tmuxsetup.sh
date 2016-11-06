@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-# Not integrated as yet
+ln ./dotfiles/tmux.conf ~/.tmux.conf
