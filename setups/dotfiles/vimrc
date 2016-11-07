@@ -1,4 +1,3 @@
-" 
 " --------------------------------------------------------------
 
 " ==============================================================
@@ -49,9 +48,10 @@ Plugin 'tomasr/molokai'
 
 "Plugin 'Valloric/YouCompleteMe'
 "Plugin 'matze/vim-move'        "Bug with Alt means not useable
-Plugin 'tpope/vim-dispatch' 		" Tmux integration
 "Plugin 'OrangeT/vim-csharp'
 "
+Plugin 'tpope/vim-dispatch' 		" Tmux integration
+Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'flazz/vim-colorschemes'
 
 " -----------------------------------------------------------
@@ -193,6 +193,11 @@ inoremap <up> <nop>
 inoremap <down> <nop>
 inoremap <left> <nop>
 inoremap <right> <nop>
+
+inoremap <A-h> <Esc>h
+inoremap <A-l> <Esc>l
+inoremap <A-k> <Esc>k
+inoremap <A-j> <Esc>j
 
 "" insert line below and above respectively
 map <F8> o<Esc>
