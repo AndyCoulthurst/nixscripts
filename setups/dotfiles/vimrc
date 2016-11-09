@@ -52,6 +52,7 @@ Plugin 'tomasr/molokai'
 "
 Plugin 'tpope/vim-dispatch' 		" Tmux integration
 Plugin 'christoomey/vim-tmux-navigator'
+Plugin 'benmills/vimux'
 Plugin 'flazz/vim-colorschemes'
 
 " -----------------------------------------------------------
