@@ -60,7 +60,8 @@ Plugin 'flazz/vim-colorschemes'
 
 "Plugin 'Rykka/riv.vim'
 
-"Plugin 'kchmck/vim-coffee-script'
+Plugin 'rdnetto/YCM-Generator'
+" Plugin 'kchmck/vim-coffee-script'
 " Plugin 'pangloss/vim-javascript'
 " Plugin 'nvie/vim-flake8'    " Python check
 " Plugin 'tmhedberg/SimpylFold'   " Python folding
@@ -209,3 +210,5 @@ map <F9> O<Esc>
 cmap w!! w !sudo tee > /dev/null %
 
 colorscheme molokai
+
+noremap <Leader>ma :call VimuxRunCommand("clear; make clean; make")<CR>
