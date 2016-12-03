@@ -37,6 +37,7 @@ Plugin 'easymotion/vim-easymotion'       " Quick motion
 Plugin 'tpope/vim-repeat'                " . uses plugins
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'unblevable/quick-scope'         " highlighting for F/f movement
+Plugin 'tpope/vim-unimpaired'         " highlighting for F/f movement
  
 Plugin 'ervandew/supertab'
 Plugin 'SirVer/ultisnips'
