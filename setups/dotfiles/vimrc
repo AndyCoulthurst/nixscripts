@@ -62,6 +62,7 @@ Plugin 'flazz/vim-colorschemes'
 "Plugin 'Rykka/riv.vim'
 
 Plugin 'rdnetto/YCM-Generator'
+Plugin 'vim-scripts/groovy.vim'
 " Plugin 'kchmck/vim-coffee-script'
 " Plugin 'pangloss/vim-javascript'
 " Plugin 'nvie/vim-flake8'    " Python check
